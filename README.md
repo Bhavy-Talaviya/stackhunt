@@ -1,4 +1,4 @@
-# 🚀 Stackhunt.
+# 🚀 Stackhunt
 
 ![Hackathon](https://img.shields.io/badge/Hackathon-Project-blue)
 ![Open Source](https://img.shields.io/badge/Open--Source-Support-green)
